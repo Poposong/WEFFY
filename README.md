@@ -1,4 +1,4 @@
-# SSAFY를 위한 화상 미팅 프로그램 WEFFY
+# SSAFY를 위한 화상 미팅 프로그램 WEFFY   
 
 ## ✈ 개발 정보
 
